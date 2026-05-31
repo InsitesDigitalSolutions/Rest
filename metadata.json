@@ -1,0 +1,6 @@
+{
+  "name": "REST",
+  "description": "Find Rest In Him — Bible reading, prayer path, meditation, fasting tracker, and ambient focus audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
